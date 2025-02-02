@@ -9,7 +9,7 @@ This is the section where you describe what problem you will solve.
 
 ## For who is this project?
 
-This prject is aimed at people with role X.
+This project is aimed at people with role X.
 
 ## Use Cases
 
