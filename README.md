@@ -43,3 +43,5 @@ You can find how to contribute in the [CONTRIBUTING](https://www.example.com/CON
 
 This is where you put who is the project sponsors and the type of funding they give. This is for project transparency.
 This is where you link to the [FUNDING](https://www.example.com/FUNDING.md) file.
+
+When a project is supported by a single company, this should be reflected here with a link to their website.
